@@ -9,13 +9,12 @@
 ║     Codeforces  : harshita28                                               ║
 ║     LinkedIn    : harshita-singh-a132a3315                                 ║
 ║     Email       : harshitaaa2807@gmail.com                                 ║
-║     ChatPDF Demo: chat-pdf-ochre-nu.vercel.app                             ║
+║     ChatPDF     : chat-pdf-ochre-nu.vercel.app (demo) + chat-pdf (repo)    ║
+║     PNR Checker : pnr-checker-qypc.vercel.app (demo) + PNR-checker (repo)  ║
 ║                                                                              ║
-║  🔧 STILL NEEDED — search for these tokens and replace:                    ║
+║  🔧 STILL NEEDED — search for this token and replace:                      ║
 ║  ┌─────────────────────────────────────────────────────────────────────┐    ║
 ║  │  YOUR_PORTFOLIO_URL     → your portfolio/site (or delete the badge)│    ║
-║  │  YOUR_CHATPDF_REPO_URL  → GitHub repo link for ChatPDF              │    ║
-║  │  YOUR_LMS_REPO_URL      → GitHub repo link for Library Mgmt System  │    ║
 ║  └─────────────────────────────────────────────────────────────────────┘    ║
 ║                                                                              ║
 ║  ⚠️  IMPORTANT: this file must live in a repo named EXACTLY                 ║
@@ -238,38 +237,40 @@ const harshita: Developer = {
 
 <br/>
 
-<!-- Replace YOUR_CHATPDF_REPO_URL with your actual GitHub repo link -->
+<!-- Already filled in with chat-pdf-ochre-nu.vercel.app and github.com/harshitasingh28/chat-pdf -->
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-pdf-ochre-nu.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://YOUR_CHATPDF_REPO_URL)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitasingh28/chat-pdf)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Library Management System
+### 🚆 PNR Status Checker
 
-> A fully-featured library management system built with modern C++17.
-> Clean MVC architecture backed by a relational MySQL database.
+> Full-stack web app to check Indian Railway PNR status in real time —
+> train info, journey details, chart status, and passenger booking status.
 
 **Highlights:**
-- 🏛️ MVC pattern with clean OOP abstractions
-- 🗄️ MySQL CRUD with transaction management
-- 🔎 Advanced search, issue/return/fine tracking
-- 📋 Role-based access: Admin & Member
+- 🔍 Live PNR lookup via IRCTC API (RapidAPI)
+- 🚉 Source/destination stations, journey date & class
+- 🎫 Chart preparation & passenger booking status
+- 📱 Clean, responsive UI built with React + Vite
 
 **Tech Stack:**
 
-![C++17](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Design-A78BFA?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-Architecture-7C3AED?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?style=flat-square&logo=rapid&logoColor=white)
 
-<br/><br/><br/><br/>
+<br/>
 
-<!-- Replace YOUR_LMS_REPO_URL -->
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://YOUR_LMS_REPO_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://pnr-checker-qypc.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitasingh28/PNR-checker)
 
 </td>
 </tr>
+
 </table>
 </div>
 
@@ -484,33 +485,15 @@ const harshita: Developer = {
 ## 🐍 Contribution Snake
 
 <!--
-  TO ENABLE THE SNAKE ANIMATION:
-  1. Create a file at: .github/workflows/snake.yml  (in your profile repo)
-  2. Paste this workflow:
-
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run the action once manually from the Actions tab
-  4. Already filled in with harshitasingh28 below
+  TO ENABLE THE SNAKE ANIMATION (one-time setup):
+  1. In your harshitasingh28/harshitasingh28 repo, create the path:
+     .github/workflows/snake.yml
+  2. Use the snake.yml file provided alongside this README — just upload
+     it to that exact path, no edits needed (already set to your username).
+  3. Go to the repo's "Actions" tab and manually run the "Generate Snake"
+     workflow once. After that it auto-runs daily and on every push to main.
+  4. Within a minute it creates an "output" branch holding the SVGs that
+     the <picture> tag below already points to — nothing else to change.
 -->
 
 <div align="center">
