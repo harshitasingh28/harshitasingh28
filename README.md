@@ -7,6 +7,7 @@
 ║     LeetCode    : harshita_2803                                            ║
 ║     GFG         : harshita_28                                              ║
 ║     Codeforces  : harshita28                                               ║
+║     CodeChef    : harshitaa_28 (Rating 1124, Div 4)                        ║
 ║     LinkedIn    : harshita-singh-a132a3315                                 ║
 ║     Email       : harshitaaa2807@gmail.com                                 ║
 ║     ChatPDF     : chat-pdf-ochre-nu.vercel.app (demo) + chat-pdf (repo)    ║
@@ -95,6 +96,10 @@
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/harshita_28" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  &nbsp;
+  <a href="https://codechef.com/users/harshitaa_28" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   &nbsp;
   <a href="https://github.com/harshitasingh28" target="_blank">
@@ -356,7 +361,7 @@ const harshita: Developer = {
 <!-- Already filled in with harshita_2803 -->
 <div align="center">
   <img
-    src="https://leetcard.jacoblin.cool/harshita_2803?theme=dark&font=Nunito&ext=heatmap&border=0&border_radius=12&site=cn"
+    src="https://leetcard.jacoblin.cool/harshita_2803?theme=dark&font=Nunito&ext=heatmap&border=0&border_radius=12"
     width="65%"
     alt="LeetCode Stats Card"
   />
@@ -419,6 +424,7 @@ const harshita: Developer = {
 | ![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) **GeeksForGeeks** | [harshita_28](https://www.geeksforgeeks.org/profile/harshita_28) | Institute Rank **#15** |
 | 🏛️ **AlgoUniversity** | AlgoUniversity | 🥉 **Ranked 3rd** in Coding Contest |
 | ![CF](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) **Codeforces** | [harshita28](https://codeforces.com/profile/harshita28) | Active Competitive Programmer |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | [harshitaa_28](https://www.codechef.com/users/harshitaa_28) | Rating **1124** (Div 4) |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** | [harshitasingh28](https://github.com/harshitasingh28) | Open Source Contributor |
 
 </div>
