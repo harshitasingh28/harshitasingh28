@@ -143,7 +143,7 @@ const harshita: Developer = {
 
   currentlyBuilding : "ChatPDF SaaS — RAG + LangChain",
   currentlyLearning : ["LangChain", "RAG", "Vector DBs", "Cloud"],
-  experience        : "Frontend Developer Intern @ Code Alpha",
+  experience        : "Software Engineering Intern @CodeTech IT Solutions PVT. LTD",
 
   askMeAbout : ["C++ DSA", "React", "Next.js", "AI Pipelines"],
   funFact    : "I debug with ☕ and solve DSA problems for fun 🎯",
