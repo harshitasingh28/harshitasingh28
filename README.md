@@ -437,10 +437,9 @@ const harshita: Developer = {
 
 | 🏆 | Achievement | Details |
 |:---:|:---|:---|
-| 🥉 | **AlgoUniversity Coding Contest** | Ranked **3rd** out of all participants |
 | 💻 | **500+ DSA Problems Solved** | Across LeetCode & GeeksForGeeks |
 | 🏫 | **GFG Institute Rank #15** | Top performer at IIIT Tiruchirappalli |
-| 👩‍💼 | **Code Alpha Internship** | Frontend Developer Intern (Software Developer) |
+| 👩‍💼 | **CODETECH IT SOLUTIONS PVT. LTD** | Software Engineering Intern |
 | 🎓 | **CGPA 8.25 / 10** | B.Tech CSE, IIIT Tiruchirappalli |
 | 🤖 | **ChatPDF SaaS** | Production RAG app with LangChain + PineconeDB |
 | ☁️ | **Cloud Certified Labs** | Google Cloud Skills Boost — GCP, Firebase, K8s |
