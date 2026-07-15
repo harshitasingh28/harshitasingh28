@@ -418,8 +418,7 @@ const harshita: Developer = {
 |:---:|:---:|:---:|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) **LeetCode** | [harshita_2803](https://leetcode.com/u/harshita_2803/) | 500+ Problems · Top 70% Globally |
 | ![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) **GeeksForGeeks** | [harshita_28](https://www.geeksforgeeks.org/profile/harshita_28) | Institute Rank **#15** |
-| 🏛️ **AlgoUniversity** | AlgoUniversity | 🥉 **Ranked 3rd** in Coding Contest |
-| ![CF](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) **Codeforces** | [harshita28](https://codeforces.com/profile/harshita28) | Active Competitive Programmer |
+**Codeforces** | [harshita28](https://codeforces.com/profile/harshita28) | Active Competitive Programmer |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) **CodeChef** | [harshitaa_28](https://www.codechef.com/users/harshitaa_28) | Rating **1124** (Div 4) |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** | [harshitasingh28](https://github.com/harshitasingh28) | Open Source Contributor |
 
